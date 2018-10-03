@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Location Destination</string>
+
+    //Titles
+    <string name="title1">Rome, Italy</string>
+    <string name="title2">Sydney, Australia</string>
+    <string name="title3">Porto, Portugal</string>
+    <string name="title4">London, England</string>
+    <string name="title5">Paris, France </string>
+    <string name="title6">Barcelona, Spain </string>
+    <string name="title7">Dubai, EAU </string>
+    <string name="title8">Florence, Italy </string>
+    <string name="title9">New York, USA </string>
+
+    //Description
+    <string name="description1">Rome is the world\'s best place to visit in 2017-18. Though its mystic roots are debated by historians, travelers agree that there\'s something mysterious about the Eternal City, be it the ghosts of the Colosseum or the ruins of the Roman Forum.</string>
+    <string name="description2">There\'s more to this Australian city than iconic attractions like the Sydney Opera House and the Sydney Harbour Bridge. Part laid-back beach town, part sprawling metropolis and part cultural retreat, Sydney has many facets that please a variety of travelers.</string>
+    <string name="description3">This coastal Portuguese city has all the elements of a world-class travel destination: a striking shoreline, charming architecture and historic sites, plus a one-of-a-kind export – port wine. Nicknamed the City of Bridges, Porto is home to numerous iron bridges including the Dom Luís I Bridge designed by a student of Gustave Eiffel the mastermind behind the Eiffel Tower.</string>
+    <string name="description4"> London, England - Although the slogan Keep Calm and Carry On was created as a morale booster for the city in 1939, it still encompasses the London way of life. The dizzying array of sights, sounds and smells mingle with the antique and the contemporary in London.</string>
+    <string name="description5">Bacon ipsum dolor amet bacon non cupidatat ea corned beef swine. Bacon shankle ground round, kielbasa commodo nulla biltong elit. Cupim eiusmod andouille occaecat in sint irure et corned beef voluptate. Consequat meatloaf magna, proident kevin venison nulla strip steak in ut ex veniam beef ribs sirloin.</string>
+    <string name="description6">Muffin marzipan pastry. Pudding cheesecake macaroon liquorice jujubes brownie caramels dessert. Oat cake jelly pudding candy marzipan lemon drops icing. Icing gummies caramels sugar plum biscuit pastry. </string>
+    <string name="description7">Exercising the imagination, experimenting with talents, being creative; these things, to me, are truly the windows to your soul. Its so important to do something every day that will make you happy. Its life. Is interesting. Its fun.</string>
+    <string name="description8">Lorem ipsum dolor amet put a bird on it PBRB glossier roof party man braid. Art party butcher blog chicharrones yuccie semiotics glossier air plant tote bag. Taxidermy deep v pug gastropub. Health goth try-hard shabby chic PBRB truffaut.</string>
+    <string name="description9">Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. Pinnace holystone mizzenmast quarter crows nest nipperkin grog yardarm hempen halter furl. Swab barque interloper chantey doubloon starboard grog black jack gangway rutters.</string>
+
+</resources>
